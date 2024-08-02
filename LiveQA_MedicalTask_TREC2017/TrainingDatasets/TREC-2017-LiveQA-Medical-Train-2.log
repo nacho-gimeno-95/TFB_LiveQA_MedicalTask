@@ -1,0 +1,38 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2021.9.23)  12 JUL 2024 18:51
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**TREC-2017-LiveQA-Medical-Train-2.xml
+(./TREC-2017-LiveQA-Medical-Train-2.xml
+LaTeX2e <2018-12-01>
+
+./TREC-2017-LiveQA-Medical-Train-2.xml:1: LaTeX Error: Missing \begin{document}
+.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ﻿<
+        ?xml version="1.0" encoding="UTF-8"?>
+? 
+./TREC-2017-LiveQA-Medical-Train-2.xml:1: Emergency stop.
+ ...                                              
+                                                  
+l.1 ﻿<
+        ?xml version="1.0" encoding="UTF-8"?>
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 492616
+ 364 string characters out of 6129481
+ 57569 words of memory out of 5000000
+ 4025 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 5i,0n,4p,87b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
+./TREC-2017-LiveQA-Medical-Train-2.xml:1:  ==> Fatal error occurred, no output 
+PDF file produced!
